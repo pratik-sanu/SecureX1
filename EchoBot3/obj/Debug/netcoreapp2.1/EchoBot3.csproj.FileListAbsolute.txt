@@ -1,0 +1,72 @@
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.deps.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.runtimeconfig.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.runtimeconfig.dev.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.dll
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.pdb
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.csprojAssemblyReference.cache
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.AssemblyInfoInputs.cache
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.AssemblyInfo.cs
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.RazorAssemblyInfo.cache
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.RazorAssemblyInfo.cs
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.RazorTargetAssemblyInfo.cache
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.dll
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.pdb
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.genruntimeconfig.cache
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.DoGeeksBot - Web Deploy.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\shantsri\source\repos\EchoBot3\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.csproj.CoreCompileInputs.cache
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.csprojAssemblyReference.cache
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.AssemblyInfoInputs.cache
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.AssemblyInfo.cs
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.RazorAssemblyInfo.cache
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.RazorAssemblyInfo.cs
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.dll
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.pdb
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.DoGeeksBot - Web Deploy.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.deps.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.runtimeconfig.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.runtimeconfig.dev.json
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.dll
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.pdb
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.RazorTargetAssemblyInfo.cache
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.genruntimeconfig.cache
+C:\Users\shantsri\Desktop\New folder (2)\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.csproj.CoreCompileInputs.cache
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\new-rg-parameters.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-new-rg.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.DoGeeksBot - Web Deploy.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.deps.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.runtimeconfig.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.runtimeconfig.dev.json
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.dll
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\bin\Debug\netcoreapp2.1\EchoBot3.pdb
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.csprojAssemblyReference.cache
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.AssemblyInfoInputs.cache
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.AssemblyInfo.cs
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.csproj.CoreCompileInputs.cache
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.RazorAssemblyInfo.cache
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.RazorAssemblyInfo.cs
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.RazorTargetAssemblyInfo.cache
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.dll
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.pdb
+C:\Users\shantsri\Desktop\Hackathon\hackathon_devops\Hackathon-main\EchoBot3\obj\Debug\netcoreapp2.1\EchoBot3.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2020-10-06T11:21:51.0006795Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "appsvc_windows_centralus"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "1bd23f60-4270-45cc-b8ae-b9853334093b"
+    }
+  }
+}
