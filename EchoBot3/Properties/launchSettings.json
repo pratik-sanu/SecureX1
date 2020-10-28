@@ -19,7 +19,7 @@
     "EchoBot": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://devgeek.azurewebsites.net;http://localhost:3978",
+      "applicationUrl": "https://securex2.azurewebsites.net;http://localhost:3978",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
